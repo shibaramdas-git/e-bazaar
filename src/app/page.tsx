@@ -6,7 +6,8 @@ export default function Home() {
       Home page
       <div>
         shadcn added :-
-        <Button>shadcn butn</Button>
+        <Button>shadcn testing</Button>
+        <div className="bg-green-300">Deplyment workflow testing "SUCCESS"</div>
       </div>
     </div>
   );
